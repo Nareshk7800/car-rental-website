@@ -1,4 +1,4 @@
-# 🚗 Velocity Motors - Premium Car Collection
+# 🚗 Karz Motors - Premium Car Collection
 
 A stunning, modern car selling website with cutting-edge Gen Z design elements, featuring smooth animations, interactive filtering, and a responsive layout that looks amazing on all devices.
 
