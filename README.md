@@ -63,7 +63,7 @@ Simply open `index.html` in your web browser - the website works perfectly as a 
 ## 📁 Project Structure
 
 ```
-velocity-motors/
+Karz-motors/
 ├── index.html          # Main HTML file
 ├── styles.css          # All CSS styles and animations
 ├── script.js           # JavaScript functionality
@@ -201,9 +201,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/velocitymotors/website/issues) page
+1. Check the [Issues](https://github.com/Karzmotors/website/issues) page
 2. Create a new issue with detailed information
-3. Contact us at hello@velocitymotors.com
+3. Contact us at hello@Karzmotors.com
 
 ## 🎉 Acknowledgments
 
