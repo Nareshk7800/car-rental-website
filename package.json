@@ -1,0 +1,38 @@
+{
+  "name": "velocity-motors-website",
+  "version": "1.0.0",
+  "description": "A modern, eye-catching car selling website with Gen Z design elements",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000 --open=/index.html",
+    "dev": "npx live-server --port=3000 --open=/index.html --watch=.",
+    "build": "echo 'No build process needed for static site'",
+    "lint": "npx htmlhint *.html && npx stylelint *.css",
+    "format": "npx prettier --write ."
+  },
+  "keywords": [
+    "car-dealership",
+    "website",
+    "modern-design",
+    "gen-z",
+    "responsive",
+    "interactive"
+  ],
+  "author": "Velocity Motors",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "htmlhint": "^1.1.4",
+    "stylelint": "^15.11.0",
+    "prettier": "^3.1.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/velocitymotors/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/velocitymotors/website/issues"
+  },
+  "homepage": "https://velocitymotors.com"
+}
